@@ -1,0 +1,8 @@
+# Ignoring some files & folders
+node_modules
+dist
+config
+.vscode
+.VSCodeCounter
+.env.json
+env.list
